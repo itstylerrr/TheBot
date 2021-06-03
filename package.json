@@ -1,0 +1,31 @@
+{
+  "name": "the-bot",
+  "version": "1.0.0",
+  "description": "A advanced Discord bot coded by !ts tyler#7922 || smoothbrains.xyz ||",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/TjWit/TheBot.git"
+  },
+  "author": "!ts tyler#7922",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/TjWit/TheBot/issues"
+  },
+  "homepage": "https://github.com/TjWit/TheBot#readme",
+  "dependencies": {
+    "call-of-duty-api": "^1.3.4",
+    "colors": "^1.4.0",
+    "discord-buttons": "^2.4.1",
+    "discord.js": "^12.5.3",
+    "fs": "0.0.1-security",
+    "minecraft-server-util": "^3.5.1",
+    "mongoose": "^5.12.11",
+    "node-fetch": "^2.6.1",
+    "parse-ms": "^3.0.0",
+    "request": "^2.88.2"
+  }
+}
